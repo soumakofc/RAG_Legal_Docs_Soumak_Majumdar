@@ -1,1 +1,0 @@
-# RAG_Legal_Docs_Soumak_Majumdar
